@@ -4,6 +4,10 @@
 
 The **Billing System** is a comprehensive solution developed in C for managing transactions and generating invoices. This system allows users to efficiently create, store, and retrieve invoices, handle various billing calculations, and track transactions. It offers a clear and professional way to manage billing with an emphasis on accuracy and user-friendly functionality.
 
+## Status
+
+**Under Development:** This project is currently under development. As a result, some features may be limited, and the system may undergo significant changes. Contributions and feedback are welcome to help improve and expand the functionality of the project.
+
 ## Features
 
 - **Generate Invoices:** Create detailed invoices for transactions, including itemized lists, quantities, and prices.
