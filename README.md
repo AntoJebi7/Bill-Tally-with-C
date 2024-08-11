@@ -39,4 +39,5 @@ The **Billing System** is a comprehensive solution developed in C for managing t
 To compile the project, use the following command:
 
 ```bash
-gcc main.c tally_manager.c -o bill_tally
+
+gcc tally_manager.c -o tally_manager
