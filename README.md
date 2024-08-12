@@ -24,9 +24,9 @@ The **Billing System** is a comprehensive solution developed in C for managing t
 
 ## Project Structure
 
-- **`billing_system.h`**: Header file containing structure definitions and function declarations.
-- **`billing_system.c`**: Source file with implementations of billing-related functions.
-- **`main.c`**: Main source file that drives the application and handles user interactions.
+- **`Libraries `**: Header file containing functions and user defined declarations.
+- **`tally_manager.c`**: Source file with implementations of billing-related functions.
+- **`main.function`**: Main source that drives the application and handles user interactions.
 
 ## Getting Started
 
