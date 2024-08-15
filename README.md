@@ -1,5 +1,6 @@
 # Billing System
-
+Read Full Article:
+https://antojebikshan.hashnode.dev/bill-management-using-c-terminal-based
 ## Overview
 
 The **Billing System** is a comprehensive solution developed in C for managing transactions and generating invoices. This system allows users to efficiently create, store, and retrieve invoices, handle various billing calculations, and track transactions. It offers a clear and professional way to manage billing with an emphasis on accuracy and user-friendly functionality.
